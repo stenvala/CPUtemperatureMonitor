@@ -1,0 +1,72 @@
+/*
+* css
+* (c) Antti Stenvall
+* antti@stenvall.fi
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+
+body {
+  background-color: black;
+  font-family: 'Special Elite', cursive;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+a, a.visited {
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+div.box {
+  margin: 0px;
+  display: inline-block;
+  position: fixed;
+  visibility: hidden;
+  text-align: center;
+  padding: 40px;
+  background-color: #(red);
+  border-radius: 10px;
+  border: 1px solid white;
+  box-shadow: 0px 0px 10px rgb(0,0,0);
+}
+div#cred {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  border-left: 1px solid white;
+  border-top: 1px solid white;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-left-radius: 10px;
+  box-shadow: 0px 0px 10px 3px #(red);
+  cursor: pointer;
+  cursor: hand;
+}
+div#monitor {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  border-right: 1px solid white;
+  border-top: 1px solid white;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-rightleft: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 0px 0px 10px 3px #(red);
+  cursor: pointer;
+  cursor: hand;
+}
+h1 {
+  padding: 0px;
+  margin: 10px;
+  font-size: 42px;
+}
