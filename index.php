@@ -12,7 +12,7 @@
     <meta charset="utf-8">
     <title>CPU Temperature Monitor</title>
     <script src="components/components.min.js"></script>
-    <script src="js/ui.js"></script>
+    <script src="app.min.js"></script>
     <link href="css/style.php" rel="stylesheet" type="text/css">
   </head>
   <body>

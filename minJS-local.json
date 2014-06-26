@@ -1,0 +1,6 @@
+{
+  "output": "app.min.js",
+  "files": [
+    "js/*.js"
+  ]
+}

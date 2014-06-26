@@ -1,6 +1,6 @@
 {
   "path": "components/",
-  "file": "components/components.min.js",
+  "output": "components/components.min.js",
   "components" : {
     "jquery": "jquery.js",
     "jquery-backstretch": "jquery.backstretch.js",
