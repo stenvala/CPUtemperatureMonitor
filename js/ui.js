@@ -1,7 +1,8 @@
-// Class for ui+front of CPU Temperature Monitor
-// (c) Antti Stenvall
-// antti@stenvall.fi
-//
+/*!
+ * Class for ui+front of CPU Temperature Monitor
+ * (c) Antti Stenvall
+ * antti@stenvall.fi
+ */
 
 (function(self, $, undefined) {
   // private variable
