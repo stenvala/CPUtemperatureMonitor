@@ -6,7 +6,7 @@ for ($ind = 1; $ind < count($argv); $ind++) {
     case '-h':
       echo "minJS.php
 
-Tool for minifying json files with yuicompressor.
+Tool for minifying javascript files with yuicompressor.
 
 Usage:
 php minJS.php [options] [input file]
