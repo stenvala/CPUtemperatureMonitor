@@ -11,10 +11,7 @@
   <head>
     <meta charset="utf-8">
     <title>CPU Temperature Monitor</title>
-    <script src="js/jquery/2.1.0.min.js"></script>
-    <script src="js/jquery/extensions/backstretch.js"></script>
-    <script src="js/jquery/extensions/flot/0.8.3.js"></script>
-    <script src="js/jquery/extensions/flot/plugins/axislabels.js"></script>
+    <script src="components/components.min.js"></script>
     <script src="js/ui.js"></script>
     <link href="css/style.php" rel="stylesheet" type="text/css">
   </head>
