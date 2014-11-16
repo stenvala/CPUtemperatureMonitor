@@ -19,7 +19,7 @@
     <script>
       $.backstretch('fig/bg.jpg');
     </script>
-    <div id="cred" onClick="location.href = '../'">
+    <div id="cred" onClick="location.href = 'http://www.mathcodingclub.com'">
       &copy; mathcodingclub.com 2013 -
       <script>
       document.write(new Date().getFullYear());

@@ -4,6 +4,6 @@
     "jquery": "1.9.1",
     "jquery-backstretch": "2.0.4",
     "flot": "0.8.3",
-    "flot-axislabels": "git@github.com:markrcote/flot-axislabels.git#378199663d3a6f337970c1b3fdf857af4240c780"
+    "flot-axislabels": "git@github.com:markrcote/flot-axislabels.git"
   }
 }

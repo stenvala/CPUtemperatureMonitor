@@ -50,7 +50,7 @@ if (count($data) == 0) {
 
 saveFile($min['output'], $data);
 
-$yuicompressor = '/Users/stenvala/bin/yuicompressor-2.4.7.jar';
+$yuicompressor = '~/Dropbox/Antti_private/bin/yuicompressor-2.4.7.jar';
 
 $cmd = "java -jar $yuicompressor " .
   "{$min['output']} -o " .
